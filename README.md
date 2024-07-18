@@ -1,5 +1,5 @@
 # 🌟 Predicting Customer Ratings for Amazon Beauty Products 🌟
-Welcome to the "Predicting Customer Ratings for Amazon Beauty Products" project! This repository contains a Jupyter Notebook that walks through building a recommendation system to predict customer ratings for Amazon beauty products.
+Welcome to the "Predicting Customer Ratings for Amazon Beauty Products" project! This repository contains a Google Colab Notebook that walks through building a recommendation system to predict customer ratings for Amazon beauty products.
 
 ### 📂 Project Overview
 This project involves several steps, including data preprocessing, exploratory data analysis, building a recommendation model, and generating recommendations. The dataset used is a matrix of user IDs, product IDs, and corresponding ratings.
